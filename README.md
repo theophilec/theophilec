@@ -10,13 +10,11 @@ After a post-PhD break, I am looking for a role as an software engineer in a dat
 
 Some things I have been working on lately:
 
-* a few automation projects [Mines Paris Alumni](https://mines-paris.org) using simple webapps and scraping. These are in private repositories for now...
+* a few projects for [Mines Paris Alumni](https://mines-paris.org): dashboards, support agents, ...
 
 * a [knowledge graph](https://github.com/theophilec/foudinge) about French restaurants and chefs.
 
-* a [link-checker in a browser extension](https://github.com/theophilec/slinky) hitting a wall with WASM...
-
-* a [browser extension](https://github.com/theophilec/giskard-red-challenge-helper) to help me beat a LLM red-teaming challenge. Before that, I have been working on my [PhD thesis](https://github.com/theophilec/thesis), for example [diffy](https://github.com/theophilec/diffy).
+* a [link-checker in a browser extension](https://github.com/theophilec/slinky) with Rust and WASM.
 
 I try to document what I learn and do on [theophilecantelob.re](https://theophilecantelob.re).
 
